@@ -10,7 +10,6 @@ IV. [Results](#results)
     C. [Fitting/Comparison to Theoretical Expectation](#fitting-comparison-to-theoretical-expectation)  
     D. [Investigating Different Initial Conditions](#investigating-different-initial-conditions)  
 V. [Conclusions](#conclusions)  
-VI. [References](#references)
 
 ## Introduction
 Understanding waves provides predictive insight into various physical systems. This project explores standing waves on circular paths, a topic crucial for explaining wave behavior in cavities or along strings and wires. The project aims to reproduce results from previous formulations and investigate different numerical methods' abilities to model standing waves.
